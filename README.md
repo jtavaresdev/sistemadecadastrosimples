@@ -4,7 +4,7 @@ Acesso ao roadmap => https://docs.google.com/document/d/12ek1Wsd_ibuwTOjHtLPZwEW
 
 # Explicando projeto
 Sistema de cadastro simples utilizando apenas metodos nativos do Java, adicionando os cadastros ao diretório pessoascadastradas/ em formato .txt. 
-## O sistema possui funções de:##
+## O sistema possui funções de:
 
 - Cadastrar novos usuarios
 - Listar usuarios cadastrados
