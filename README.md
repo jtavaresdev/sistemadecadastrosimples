@@ -1,4 +1,4 @@
-# sistemadecadastrosimples
+# Sistema de cadastro simples
 Projeto simples de estudo com o intuito de melhorar a base na linguagem Java. Projeto baseado em um ROADMAP de Java feito pelo Lucas Carrilho @devmagro.
 Acesso ao roadmap => https://docs.google.com/document/d/12ek1Wsd_ibuwTOjHtLPZwEWdy5-A7cRoO2Bf-v5G1_s/edit
 
